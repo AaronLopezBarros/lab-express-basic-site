@@ -1,0 +1,24 @@
+body{
+    background-image: url('/images/Pierre-Louis-background.jpeg');
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+p{
+    font-size: 20px;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
