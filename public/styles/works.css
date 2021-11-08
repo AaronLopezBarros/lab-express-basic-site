@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    margin: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.container_competiciones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container_competiciones > img{
+    width: 300px;
+    border: 2px solid black;
+}
+.container_free{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container_free > img{
+    width: 300px;
+    border: 2px solid black;
+}
+.container_camps{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container_camps > img{
+    border: 2px solid black;
+}
