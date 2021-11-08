@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    margin: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.container_1{
+    display: flex;
+    justify-content: space-around;
+    margin:20px
+}
+.container_1 > img{
+    border: 3px solid black
+}
+.container_1 > img:hover{
+    width: 800px;
+}
+.container_2{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px
+}
+.container_2 > img{
+    border: 3px solid black
+}
+.container_2 > img:hover{
+    width: 800px;
+}
+  

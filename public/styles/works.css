@@ -6,9 +6,9 @@ body{
     justify-content: center;
     align-items: center;
     background-color: blanchedalmond;
-    margin: 50px;
+    margin: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 17px;
+    font-size: 15px;
 }
 .container{
     display: flex;
