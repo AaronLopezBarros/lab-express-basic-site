@@ -27,5 +27,4 @@ app.get('/gallery', (request, response)=>{
 
 
 app.listen(3000, ()=>{
-    console.log('server activo en el puerto 3000')
 })
